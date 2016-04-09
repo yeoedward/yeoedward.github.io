@@ -18,7 +18,7 @@ I am also interested in data analysis. I have done some [regression][36401] and
 am currently learning more [cool stuff][36402].
 Have also done a bit of [machine learning][10601].
 
-At the moment, I am interested in learning more about consciousness, as a
+At the moment, I am learning more about [consciousness]({% post_url 2016-03-30-consc %}), as a
 computational process.
 
 Here is my [resume][resume].
