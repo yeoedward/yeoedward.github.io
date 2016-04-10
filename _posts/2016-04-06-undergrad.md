@@ -6,7 +6,7 @@ date:   2016-04-10
 
 I'm in the last three weeks of undergrad, which makes this the perfect time to reflect on the past few years. I am a firm believer in having regrets, because to regret is to have learned something from the past. Imagine a life with no regrets. That means you were doing everything exactly right from the start, or you still have yet to learn what you have done wrong. Which one seems more likely?
 
-First, some background. I almost flunked out of high school, and only got into CMU through a a combination of luck, transfer applications and some hard work. This gave me a chip on my shoulder, and also a very bad "prerequisites" situation. The combination of these two things made me take my school work very seriously. I was not concerned about joining student organizations at all -- my only priority was to get a very good grounding through my core Computer Science classes. For the same reasons, I was also very conservative in my course load. I did well academically because I put in the time and the work. I have to add it was during this period that I felt I had to learn web development in order to get hired. So in my spare time, I learned the nuts-and-bolts of creating a website, hosting it on a server, etc.
+First, some background. I almost flunked out of high school, and only got into CMU through a combination of luck, transfer applications and some hard work. This gave me a chip on my shoulder, and also a very bad "prerequisites" situation. The combination of these two things made me take my school work very seriously. I was not concerned about joining student organizations at all -- my only priority was to get a very good grounding through my core Computer Science classes. For the same reasons, I was also very conservative in my course load. I did well academically because I put in the time and the work. I have to add it was during this period that I felt I had to learn web development in order to get hired. So in my spare time, I learned the nuts-and-bolts of creating a website, hosting it on a server, etc.
 
 I really enjoyed the bigger programming assignments in my introduction to systems class, so when it was time for me to choose my upper-level electives, I decided I was a systems guy. Unsurprisingly, I really enjoyed taking the systems electives. I helped out with a database research project, which was fun, although I did not put in as much time as I would have liked because of classes. The CMU Computer Science department has a minor requirement for undergrads. At this point, I decided to minor in machine learning, and took a few statistics and machine learning classes.
 
@@ -51,13 +51,13 @@ To counterweight what I said about learning fundamental things vs "professional 
   
 __Not taking easy courses__
 
-I always tried to take hard classes that I was interested in. And I also tried (failing sometimes) not to take easy classes just because they were easy. I think a better metric would be effort-to-reward ratio. Instead of looking for easy classes to balance out hard ones, better to look for classes with good effort-to-reward ratios.
+I always tried to take hard classes that I was interested in. And I also tried (almost always) not to take easy classes just because they were easy. I think a better metric would be effort-to-reward ratio. Instead of looking for easy classes to balance out hard ones, better to look for classes with good effort-to-reward ratios.
 
 # Afterthoughts
 
 My college education was totally worthwhile, and I would not trade it for anything. It has been one of the most humbling experiences, where I have faced so many challenging problems and met so many smart people. In all of my classes, I have always been wowed by my professors and peers. If I had one sentence to say to myself before starting out, the only thing I can think of is, your adventure awaits.
 
-Note that I'm not speaking from a perspective of value per dollar, or if it's worth college debt or anything, but if you are as fortunate as I am where money is not a consideration in your education, totally worth.
+Note that I'm not speaking from a perspective of value per dollar, or if it's worth college debt or anything, but if you are fortunate enough that money is not a consideration in your education, totally worth.
 
 [scottfahlman]: https://www.quora.com/How-can-I-earn-a-4-0-GPA-at-Carnegie-Mellon-University
 [dga]: http://da-data.blogspot.com/2015/03/reflecting-on-cs-graduate-admissions.html
