@@ -4,7 +4,7 @@ title:  "Undergrad"
 date:   2016-04-10
 ---
 
-I'm in the last three weeks of undergrad, which makes this the perfect time to reflect on the past few years. I am a firm believer in having regrets, because to regret is to have learned something from the past. Imagine a life with no regrets. That means you were doing everything exactly right from the start, or you still have yet to learn what you have done wrong. Which one seems more likely?
+I'm in the last three weeks of undergrad, which makes this the perfect time to reflect on the past few years. I am a firm believer in having regrets, because to regret is to have learned something from the past. Imagine a life with no regrets. That means you were doing everything exactly right from the start or you still have yet to learn what you have done wrong. Which one seems more likely?
 
 First, some background. I almost flunked out of high school, and only got into CMU through a combination of luck, transfer applications and some hard work. This gave me a chip on my shoulder, and also a very bad "prerequisites" situation. The combination of these two things made me take my school work very seriously. I was not concerned about joining student organizations at all -- my only priority was to get a very good grounding through my core Computer Science classes. For the same reasons, I was also very conservative in my course load. I did well academically because I put in the time and the work. I have to add it was during this period that I felt I had to learn web development in order to get hired. So in my spare time, I learned the nuts-and-bolts of creating a website, hosting it on a server, etc.
 
