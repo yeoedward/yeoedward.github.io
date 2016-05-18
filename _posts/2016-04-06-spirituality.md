@@ -40,6 +40,10 @@ Being small. Being part of something larger. This, I think, is the basis of my s
 
 # TODO: Ideas to develop further
 
+  Nostalgia
+
+  Altruism/Doing good
+
   Insignificance of the significant and vice versa:
 
     Tao -- The middle way
