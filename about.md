@@ -23,6 +23,7 @@ Here is my [resume][resume].
 
 I spend a lot of time listening to EDM. I was [here][edc].
 
+
 [cmu]: http://www.cmu.edu/
 [twosigma]: http://www.twosigma.com/
 [15410]: https://www.cs.cmu.edu/~410/
