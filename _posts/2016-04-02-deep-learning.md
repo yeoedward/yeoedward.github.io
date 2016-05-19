@@ -16,7 +16,7 @@ If we do not know much about the domain of interest, then surely
 we should not be able to interpolate/extrapolate correctly? However, with
 Deep Learning, we do have a prior, which is that the data or task
 has some kind of hierarchical and layered structure. And it seems this is
-an appripriate prior for real-world tasks (this kind of empiricism seems
+an appropriate prior for real-world tasks (this kind of empiricism seems
 to be one of the main differences between statistics and machine learning,
 but that is another story). Also, since neural networks are
 composed of many smaller components, it is possible to hand-engineer some
