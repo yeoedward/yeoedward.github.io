@@ -32,8 +32,8 @@ than other methods e.g. crossover and mutation (which I believe is a kind of bea
 of abstract syntax trees in genetic programming.
 
 I am particularly interested in recurrent neural netorks. Long short-term memory networks (LSTMs)
-and the [Neural Turing Machine][NTM] are particularly interesting recurrent networks.
-They allow the network to reprogram itself, either by activating/deactivating
+and the [Neural Turing Machine][NTM] are two of them.
+These two can "reprogram" themselves, either by activating/deactivating
 different parts using gates (in the former), or by focusing its attention on
 different parts (in the latter).
 
