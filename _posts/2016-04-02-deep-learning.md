@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Deep Learning"
-date:   2016-05-18
+date:   2016-05-21
 ---
 
 There has been a lot of excitement recently about Deep Learning, which is
@@ -32,7 +32,7 @@ than other methods e.g. crossover and mutation (which I believe is a kind of bea
 of abstract syntax trees in genetic programming.
 
 I am particularly interested in recurrent neural netorks. Long short-term memory networks (LSTMs)
-and the Neural Turing Machine are particularly interesting recurrent networks.
+and the [Neural Turing Machine][NTM] are particularly interesting recurrent networks.
 They allow the network to reprogram itself, either by activating/deactivating
 different parts using gates (in the former), or by focusing its attention on
 different parts (in the latter).
@@ -46,3 +46,4 @@ different parts (in the latter).
     http://arxiv.org/abs/1511.06279
 
 [blum]: https://www.cs.cmu.edu/~mblum/search/consc_d.pdf
+[NTM]: https://github.com/yeoedward/Neural-Turing-Machine

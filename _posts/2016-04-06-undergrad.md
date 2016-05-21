@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Undergrad"
-date:   2016-04-10
+date:   2016-05-21
 ---
 
 I'm in the last three weeks of undergrad, which makes this the perfect time to reflect on the past few years. I am a firm believer in having regrets, because to regret is to have learned something from the past. Imagine a life with no regrets. That means you were doing everything exactly right from the start or you still have yet to learn what you have done wrong. Which one seems more likely?

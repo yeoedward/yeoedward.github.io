@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Spirituality"
-date:   2016-05-18
+date:   2016-05-21
 ---
 
 The owner of Jurrasic World, Simon Masrani, once reminded Claire, who is in charge of
