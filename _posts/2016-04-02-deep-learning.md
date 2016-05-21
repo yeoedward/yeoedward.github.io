@@ -25,29 +25,13 @@ to implement translation-invariance in computer vision.
 
 Representation learning through some kind of architectural hierarchy
 is not unique to neural networks. For example, automatically defined
-functions (ADF) in genetic programming seems to serve a similar
-function as hidden layers. But neural networks can learn via 
-backpropagation and stochastic gradient descent, which seems more effective
-than crossover and mutation (which I believe is a kind of beam search) of
-program syntax trees in genetic programming.
+functions (ADF) in genetic programming seem to serve similar
+functions as hidden layers. But neural networks can learn via 
+backpropagation and stochastic gradient descent, which seem more effective
+than other methods e.g. crossover and mutation (which I believe is a kind of beam search)
+of abstract syntax trees in genetic programming.
 
-Why am I using genetic programming as a point of comparsion? I am primarily
-interested in [consciousness]({% post_url 2016-03-30-consc %}), which 
-I believe has the property of universality, which I previously considered
-to be the same as Turing-completeness. Enter genetic programming.
-But Manuel Blum's definition
-of what it means to be universal in [CONSCS][blum] is better:
-
->  Most importantly, the entity is universal:
-roughly, its learning algorithms are sufficiently powerful to enable it to acquire
-any model that can be acquired by a general-purpose CONSCS. 
-
-So Turing-completeness does not seem like the right property here, although
-it is somewhat analogous.
-
-For the same reasons, I am particularly interested in recurrent
-neural netorks, because it seems having a concept of self should require
-the capability of storing state. Long short-term memory networks (LSTMs)
+I am particularly interested in recurrent neural netorks. Long short-term memory networks (LSTMs)
 and the Neural Turing Machine are particularly interesting recurrent networks.
 They allow the network to reprogram itself, either by activating/deactivating
 different parts using gates (in the former), or by focusing its attention on
