@@ -8,8 +8,7 @@
 # Site settings
 title: "Eddy's Notebook"
 description: > # this means to ignore newlines until "baseurl:"
-  My ideas about stuff. Inspired by a similar notebook maintained by my
-  statistics professor (http://bactra.org/notebooks/)
+  Ideas about stuff. Please do not take them too seriously.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eddyyeo.com" # the base hostname & protocol for your site
 github_username:  yeoedward
