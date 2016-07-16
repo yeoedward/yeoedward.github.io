@@ -21,4 +21,4 @@ Here is my [resume][resume].
 
 [cmu]: http://www.cmu.edu/
 [twosigma]: http://www.twosigma.com/
-[resume]: {{ site.url }}/assets/resume.pdf
+[resume]: {{ site.baseurl }}/assets/resume.pdf
