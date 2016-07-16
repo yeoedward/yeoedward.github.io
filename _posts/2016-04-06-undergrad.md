@@ -23,7 +23,7 @@ I decided I was a systems guy way too early. I am still very much interested in 
   
 __Courses Not Taken__
 
-I specifically regret not having taken [Principles of Programming Languages][15312]. I hear of this fabled type theory, and how programming languages are type systems, but know nothing of it. Also [Parallel Computing][15418], which seems like it will only become more important (especially with the rise of deep learning).
+I specifically regret not having taken [Principles of Programming Languages][15312]. I hear of this fabled type theory, and how programming languages are type systems, but know nothing of it. Also [Parallel Computing][15418], which seems like it will only become more important.
 
 __Web Development/Being Professional__
 

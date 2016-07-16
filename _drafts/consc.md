@@ -45,6 +45,8 @@ that putting neural networks in interesting (in a game theoretic sense) situatio
 will result in them acquiring internal models of the self and the
 environment.
 
+Consciousness means many things. None of them are special. "Soul" is an illusion. Instead, what is uniquely human is resourcefulness?
+
 # To read/think:
 
   The Society of Mind.
