@@ -3,22 +3,20 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+I currently work at [Two Sigma][twosigma] as a Software Engineer.
 I studied Computer Science and Statistics at
-[Carnegie Mellon University][cmu]. I will be working at
-[Two Sigma][twosigma] as a Software Engineer starting August 2016.
-I interned at Facebook and Google the past two summers.
+[Carnegie Mellon University][cmu].
 
-I am interested in software systems and data analysis. I like thinking about artificial intelligence, computability and their philosophical implications. I want to know more about complex systems.
+I am interested in machine learning and software systems. I want to know more
+about [complex systems][complex]. I wish I knew more math and physics.
 
-While I see the world through the lens of science and math, I do not think they answer
-the question of how to live. For that, I try to find guidance in the wisdom of ancient
-religions and philosophies, and in the lives of those who have done great things. I abide by the philosophy: [Talent is given, Greatness is earned]({% post_url 2016-07-16-rubber-city-soul %}).
+I like the philosophy: [Talent is given, Greatness is earned]({% post_url 2016-07-16-rubber-city-soul %}).
 
 I was [here]({% post_url 2016-07-16-i-was-here %}).
 
 Here is my [resume][resume].
 
-[cmu]: http://www.cmu.edu/
 [twosigma]: http://www.twosigma.com/
+[cmu]: http://www.cmu.edu/
+[complex]: https://en.wikipedia.org/wiki/Complex_system
 [resume]: {{ site.baseurl }}/assets/resume.pdf
